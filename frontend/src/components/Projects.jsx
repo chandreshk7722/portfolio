@@ -38,12 +38,10 @@ export default function Projects() {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true, margin: "-80px" }}
               transition={{ duration: 0.7, delay: idx * 0.1, ease: [0.83, 0, 0.17, 1] }}
-              className={`group relative bg-obsidian flex flex-col ${
-                idx === 0 ? "lg:row-span-2" : ""
-              }`}
+              className="group relative bg-obsidian flex flex-col"
               data-testid={`project-${p.name.toLowerCase().replace(/\./g, "-")}`}
             >
-              <div className="relative overflow-hidden aspect-[4/3] lg:aspect-auto lg:flex-1 border-b border-white/10">
+              <div className="relative overflow-hidden aspect-square border-b border-white/10">
                 <img
                   src={p.image}
                   alt={p.name}
