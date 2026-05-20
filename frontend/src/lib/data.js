@@ -157,7 +157,7 @@ export const PROJECTS = [
     accent: "acid",
     size: "tall",
     image:
-      "https://images.unsplash.com/photo-1714765761465-e7a4974fa05b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjAzMzJ8MHwxfHNlYXJjaHwxfHxicnV0YWxpc3QlMjBhcmNoaXRlY3R1cmUlMjBkYXJrfGVufDB8fHx8MTc3OTIwMzA4M3ww&ixlib=rb-4.1.0&q=85",
+      "https://images.unsplash.com/photo-1553413077-190dd305871c?crop=entropy&cs=srgb&fm=jpg&ixlib=rb-4.1.0&q=85&w=1400",
   },
   {
     name: "Dechea",
@@ -169,7 +169,7 @@ export const PROJECTS = [
     accent: "white",
     size: "wide",
     image:
-      "https://static.prod-images.emergentagent.com/jobs/c101daee-913d-4883-b900-f6b3b74d8124/images/ddf9e597db70622af42ba8b70d5d3e941141c183efe22243ba383d5aaff8b644.png",
+      "https://images.unsplash.com/photo-1538108149393-fbbd81895907?crop=entropy&cs=srgb&fm=jpg&ixlib=rb-4.1.0&q=85&w=1400",
   },
   {
     name: "Cult.fit",
@@ -181,7 +181,7 @@ export const PROJECTS = [
     accent: "red",
     size: "square",
     image:
-      "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?crop=entropy&cs=srgb&fm=jpg&ixlib=rb-4.1.0&q=85&w=1200",
+      "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?crop=entropy&cs=srgb&fm=jpg&ixlib=rb-4.1.0&q=85&w=1400",
   },
 ];
 
